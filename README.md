@@ -16,6 +16,10 @@ Each scene contains viewing stations and practical applications for each industr
 The user can navigate between these scenes by clicking buttons for each industry.
 Each industry scene has a button by the users feet to navigate back to the main menu scene.
 
+##### Additional resources
+Full project write up - https://medium.com/@jordan.wayland/jordans-night-at-the-museum-project-e49f006e73df
+Youtube video link - https://youtu.be/-cfPjg8d0zw
+
 ## Capstone
 This project is the final project as part of Udacity's Virtual Reality Nanodegree Program.
 
