@@ -1,8 +1,8 @@
 # virtual
 This repository will showcase the applications that I built through my studies with Udacity. I am currently working on trying to get APK files larger than 25MB on github so the user can download and explore my virtual worlds on their Andriod device.
 
-## Night at the Museum Project
-This project is part of Udacity's Virtual Reality Nanodegree Program.
+## Night at the Museum
+This project is part of Udacity's Virtual Reality Nanodegree Program. This is the project where I was awarded 'Outstanding Student Developer'. Through this award, Udacity requested permission to showcase my project for future marketing efforts.
 
 ### Versions
 - Unity 2017.1.0p4
