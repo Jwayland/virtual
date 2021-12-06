@@ -7,9 +7,9 @@ This project is part of Udacity's Virtual Reality Nanodegree Program.
 ### Versions
 - Unity 2017.1.0p4
 - GVR Unity SDK v1.70.0
+- Project is built and intended for Android use
 
 ### Project Description
-Project is intended for Android use. 
 The purpose of the application is to educate the user on virtual reality's impact on various industries.
 I created a 4 scenes, Main Menu, Architecture, Real Estate, and Construction. 
 Each scene contains viewing stations and practical applications for each industry category.
