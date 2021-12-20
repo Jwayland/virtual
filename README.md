@@ -2,6 +2,7 @@
 This repository will showcase the applications that I built through my studies with Udacity. I am currently working on trying to get APK files larger than 25MB on github so the user can download and explore my virtual worlds on their Andriod device.
 
 ## Night at the Museum
+Applicaiton Download Link - https://app.box.com/s/c5jk1mm308vztlz4j9g5yr8n6oi8jopg
 This project is part of Udacity's Virtual Reality Nanodegree Program. This is the project where I was awarded 'Outstanding Student Developer'. Through this award, Udacity requested permission to showcase my project for future marketing efforts.
 
 ### Versions
@@ -21,6 +22,7 @@ Full project write up - https://medium.com/@jordan.wayland/jordans-night-at-the-
 Youtube video link - https://youtu.be/-cfPjg8d0zw
 
 ## Capstone
+Application Download Link - https://app.box.com/s/erq31jkn0ckmnwf4jb450wpjv1ja5qs6
 This project is the final project as part of Udacity's Virtual Reality Nanodegree Program.
 
 ### Versions
